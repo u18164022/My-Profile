@@ -24,5 +24,6 @@
     <li>Gym</li>
     <li>Technology</li>
     <li>Animals</li>
+    <li>Singing</li>
 </ul>
 </div>
