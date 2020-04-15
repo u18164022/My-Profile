@@ -8,6 +8,9 @@
     <li> My own Profile </li>
     <li> Git branching management with another member </li>
     <li> Creation of database queries </li>
+    <li> Update.php functions - updateProfileImage, signOut </li>
+    <li> SignoutController.php </li>
+    <li> ProfileImageController.php </li>
   </ul> 
  </div>
 
