@@ -11,7 +11,6 @@
     <li> Update.php functions - updateProfileImage, signOut </li>
     <li> ProfileImageController.php </li>
     <li> Register branch unit testing </li>
-    <li> Register branch unit testing </li>
   </ul> 
  </div>
 
