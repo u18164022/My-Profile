@@ -9,8 +9,9 @@
     <li> Git branching management with another member </li>
     <li> Creation of database queries </li>
     <li> Update.php functions - updateProfileImage, signOut </li>
-    <li> SignoutController.php </li>
     <li> ProfileImageController.php </li>
+    <li> Register branch unit testing </li>
+    <li> Register branch unit testing </li>
   </ul> 
  </div>
 
